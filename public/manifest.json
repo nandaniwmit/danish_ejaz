@@ -1,0 +1,41 @@
+{
+  "id": "/",
+  "name": "Danish Ejaz Pharmacy",
+  "short_name": "Danish Ejaz",
+  "description": "Your Trusted Medical Store for Genuine Medicines, Healthcare Devices & Daily Essentials in Aurangabad, Bihar.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#0A8F6A",
+  "background_color": "#ffffff",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["medical", "health", "shopping"],
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

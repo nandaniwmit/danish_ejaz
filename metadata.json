@@ -1,0 +1,6 @@
+{
+  "name": "Danish Ejaz Pharmacy",
+  "description": "Your Trusted Medical Store for Genuine Medicines, Healthcare Devices & Daily Essentials in Aurangabad, Bihar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
